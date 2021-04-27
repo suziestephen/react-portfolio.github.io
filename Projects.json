@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "name": "Note Taker",
+      "image": "",
+      "details": "Great way to create and save notes for to do lists, shopping lists or personal memos. Application deploys on Heroku",
+      "link": ""
+
+    },
+    {
+      "id": 2,
+      "name": "Workday Planner",
+      "image": "",
+      "details": "Schedule tasks for the day and save them or clear the schedule. Timeslot colours update based on the time of day to indicate past or future times",
+      "link": ""
+    },
+    {
+      "id": 3,
+      "name": "Weather Dashboard",
+      "image": "",
+      "details": "Easily view the five day weather forecast by searching for a town. Also features a saved list of past searches for quick access.",
+      "link": ""
+    }
+]
+  
