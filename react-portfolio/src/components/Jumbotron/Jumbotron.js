@@ -1,32 +1,45 @@
 import React, { Component } from "react";
-// import { SocialIcon } from 'react-social-icons';
+import "./jumbotron.css";
 
 
 
-class Jumbotron extends Component {
 
-    render() {
+function Jumbotron() {
       return (
-        <container fluid className="text-center flex-center w-responsive mx-auto text-white" style={{ fontFamily: "'Roboto Mono', monospace" }}>
-        <row className="mr-0 ml-0">
-        <col className="text-center pl-0 pr-0">
-            <Jumbotron className="" style={{ backgroundColor: 'rgba(0,0,0,0.4)' }}>
-            <h1>Suzie Stephen</h1>
-            <h4>The Coding Bootcamp Student</h4>
-            <row>
-                <col>
-                <p Linkedin url="https://www.linkedin.com/in/suzie-stephen-b710129a/" />
-                </col>
-                <col>            
-                    <p Github url="https://github.com/suziestephen" />
-                </col>
-            </row>
-            </Jumbotron>
-        </col>
-        </row>
-    </container>
+      <div class="jumbotron">
+        <div class="row">
+              <h4>
+                <b>Email:</b> <a href="mailto:someone@example.com">suzietstephen@gmail.com</a>
+                <br></br>
+                <b>Mobile:</b> +61 4 29 008 919
+              </h4>
+        </div>
+        <div class="row">
+            <div class="row">
+                <div class="col-md-4">
+                  <p class="lead">
+                  <a class="btn btn-primary btn-lg" href="https://github.com/suziestephen" role="button">Github</a>
+                  </p>
+                </div>
+                
+                <div class="col-md-4">
+                  <p class="lead">
+                  <a class="btn btn-primary btn-lg" href="https://www.linkedin.com/in/suzie-stephen-b710129a/" role="button">Linkedin</a>
+                  </p>
+                </div>
+      
+                <div class="col-md-4">
+                  <p class="lead">
+                  <a class="btn btn-primary btn-lg" href="hhttps://drive.google.com/file/d/17ERL9vmrPk-e1FFJOp2DTSTtLH-05NgH/view?usp=sharing" role="button">My CV</a>
+                  </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
   
     )
   }
-}
+
 export default Jumbotron;
