@@ -19,6 +19,7 @@ function App() {
         <Navbar />
        <Header />
         <Jumbotron />
+        <h1>About Me</h1>
         <About />
          <ProjectTitle>My Projects</ProjectTitle>
         <Projects

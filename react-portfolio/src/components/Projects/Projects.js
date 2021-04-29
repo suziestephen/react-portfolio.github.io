@@ -4,19 +4,18 @@ import "./projects.css";
 function Projects(props) {
   return (
     <div className="card">
-      <div className="img-container">
-        <img alt={props.name} src={props.image} />
-      </div>
       <div className="content">
         <ul>
           <li>
-            <strong>Project:</strong> {props.name}
+            <h4>Project: {props.name} </h4>
           </li>
           <li>
             <strong>Details:</strong> {props.details}
           </li>
           <li>
-            <strong>Link:</strong> {props.link}
+              <p class="lead">
+                  <a class="btn btn-warning btn-lg" href={props.link} role="button">Deployed Application</a>
+              </p>
           </li>
         </ul>
       </div>

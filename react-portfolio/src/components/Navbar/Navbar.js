@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg">
       <a href="/" className="navbar" />
-        My Portfolio
+        <h2>My Portfolio</h2>
       
 
 

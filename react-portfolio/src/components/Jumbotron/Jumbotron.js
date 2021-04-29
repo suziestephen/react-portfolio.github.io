@@ -7,13 +7,12 @@ import "./jumbotron.css";
 function Jumbotron() {
       return (
       <div class="jumbotron">
-        <div class="row">
+          <div class="jumbotron-text">
               <h4>
                 <b>Email:</b> <a href="mailto:someone@example.com">suzietstephen@gmail.com</a>
                 <br></br>
                 <b>Mobile:</b> +61 4 29 008 919
               </h4>
-        </div>
         <div class="row">
             <div class="row">
                 <div class="col-md-4">
@@ -35,6 +34,7 @@ function Jumbotron() {
                 </div>
             </div>
         </div>
+      </div>
     </div>
 
 
