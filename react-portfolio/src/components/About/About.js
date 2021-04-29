@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-// import profie from  ""
+
 
 
 
