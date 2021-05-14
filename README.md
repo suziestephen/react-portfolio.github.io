@@ -3,6 +3,8 @@
 
 We are required as part of the course to create a porfolio for employers that has access to our Github, Linkedin, current CV and past work.
 
+View the app here https://secret-taiga-83269.herokuapp.com/
+
 
 ## Table of contents
   - [Motivation](#motivation)
