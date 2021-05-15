@@ -29,7 +29,7 @@ function Jumbotron() {
       
                 <div class="col-md-4">
                   <p class="lead">
-                  <a class="btn btn-primary btn-lg" href="hhttps://drive.google.com/file/d/17ERL9vmrPk-e1FFJOp2DTSTtLH-05NgH/view?usp=sharing" role="button">My CV</a>
+                  <a class="btn btn-primary btn-lg" href="https://drive.google.com/file/d/17ERL9vmrPk-e1FFJOp2DTSTtLH-05NgH/view?usp=sharing" role="button">My CV</a>
                   </p>
                 </div>
             </div>

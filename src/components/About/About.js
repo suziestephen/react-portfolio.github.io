@@ -22,7 +22,7 @@ function About() {
               <br></br>
           </h3>
           <h4>  
-              <p>I work full time as a Product Manager for a company that speciliases in Agritech.</p> 
+              <p>I work full time as a Product Manager for a company that build products for the Agriculture industry in Australia and New Zealand.</p> 
               <p>I am taking this coding course to make me a better Product Manager. </p>
               <p>I am interested in learning more about UX and UI design after taking this course. </p>
           </h4>
